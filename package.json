@@ -1,6 +1,6 @@
 {
   "name": "primapwd-dot-dev",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
